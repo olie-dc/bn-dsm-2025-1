@@ -14,3 +14,7 @@
 10. Escolha um pasta local do computador para armazenar os arquivos do repositório clonado.
 11. Ao ser perguntado se deseja abrir o repositório clonado, clique sobre o botão `[Abrir]`.
 
+# Criando um projeto Express
+
+Siga as instruções [deste artigo](https://faustocintra.com.br/desenvolvimento-back-end/criando-um-projeto-express-js-em-2024/).
+
