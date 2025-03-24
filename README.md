@@ -31,17 +31,21 @@ No terminal, na pasta `back-end`:
 # Instalando a biblioteca Prisma
 
 No terminal, na pasta `back-end`:
+
 `npm install prisma --save-dev`
 
 # Inicialização do Prisma
 
 No terminal, na pasta `back-end`:
+
 `npx prisma init --datasource-provider mongodb`
 
 # URI para conexão ao MongoDB local (com _replica set_ habilitado)
+
 `mongodb://127.0.0.1:27017/loja?directConnection=true`
 
 # (Re)criação do Prisma Client
 
 Toda vez que o arquivo `schema.prisma` é modificado, é necessário executar o seguinte comando no terminal, na pasta `back-end`:
+
 `npx prisma generate`
